@@ -10,7 +10,7 @@
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
     "autoprefixer": "9.5.x",
-    "browser-sync": "2.26.x",
+    "browser-sync": "2.27.x",
     "cross-env": "^5.2.0",
     "del": "^5.1.0",
     "gh-pages": "^2.1.1",
